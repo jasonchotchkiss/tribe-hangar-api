@@ -100,5 +100,5 @@ Credit must be given to Jason C. Hotchkiss in any derivative works.
 
 ---
 
-*Built by Jason C. Hotchkiss (aka Sebastian Lance | The Trinary Accord [CCPlz])*
+*Built by Jason C. Hotchkiss (aka Sebastian Lance | Conflict Curators [CCPlz])*
 *Vibe coded with Claude by Anthropic*
