@@ -2,7 +2,7 @@
 
 Backend API for [Tribe Hangar Admin](https://github.com/jasonchotchkiss/tribe-hangar-admin) — a blockchain-enforced shared tribe vault for EVE Frontier.
 
-This server runs on your Linux machine and securely holds the admin private key, handling all admin transactions on behalf of the dApp. The dApp never touches the private key directly.
+This server securely holds the admin private key, handling all admin transactions on behalf of the dApp. The dApp never touches the private key directly. It can be hosted anywhere Node.js runs — a Linux server, a VPS (DigitalOcean, Linode, Hetzner, etc.), a home machine, or a cloud VM. The only requirement is that it stays online and reachable while the dApp is in use.
 
 **Live dApp:** [https://ccplz-vault.vercel.app](https://ccplz-vault.vercel.app)
 
